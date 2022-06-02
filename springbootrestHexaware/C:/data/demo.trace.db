@@ -1,0 +1,4 @@
+2022-01-12 13:40:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ALIEN" no encontrada
+Table "ALIEN" not found; SQL statement:
+select alien0_.id as id1_0_, alien0_.lenguage as lenguage2_0_, alien0_.name as name3_0_ from alien alien0_ [42102-200]
